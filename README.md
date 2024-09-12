@@ -1,4 +1,4 @@
 ## 🌙 qvastraven
 
-hi, im vastra! \
+hi, im vastra \
 https://vastrave.neocities.org
