@@ -7,4 +7,4 @@
 
 ♪ ♥️ piano and guitar ♪
 
-[![xo1v's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xo1v&langs_count=6&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
+[![xo1v's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xo1v&langs_count=8&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
