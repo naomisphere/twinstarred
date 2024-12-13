@@ -6,3 +6,5 @@
 [>] https://guns.lol/xo1v
 
 ♪ ♥️ piano and guitar ♪
+
+[![xo1v's GitHub stats](https://github-readme-stats.vercel.app/api?username=xo1v)](https://github.com/anuraghazra/github-readme-stats)
