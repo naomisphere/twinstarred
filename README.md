@@ -1,4 +1,4 @@
-## 🌙 xo1v
+## 🌙 vastra
 
 <img src="https://github.com/user-attachments/assets/8183cdcd-9d58-4cde-a561-b0f7b2ec9353" width="190" height="190"> \
 \
@@ -7,4 +7,4 @@
 
 ♪ ♥️ piano and guitar ♪
 
-[![xo1v's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xo1v&langs_count=6&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
+[![vastra's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=made2pwn&langs_count=6&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
