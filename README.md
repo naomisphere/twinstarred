@@ -5,7 +5,7 @@
 [>] hi, im vastra/ven. \
 [>] [guns.lol](https://guns.lol/ginkgo)
 
-<p align="center" style="font-size: 46px;">I work on:</p>
+<p align="center" style="font-size: 80px;">I work on:</p>
 
 <p align="center" dir="auto">
   <a href="https://www.apple.com/macos/">
