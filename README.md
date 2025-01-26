@@ -2,10 +2,11 @@
 
 <img src="https://github.com/user-attachments/assets/5c504274-819e-4ddc-9e86-07ba722b31e4" width="500" height="230">
 
-[>] hi, im vastra. \
+[>] hi, im vastra/ven. \
 [>] [guns.lol](https://guns.lol/ginkgo)
 
-<p align="center" dir="auto">test.</p>
+<p align="center" dir="auto">[![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)](https://www.apple.com/macos/)
+</p>
 
 ♪ ♥️ piano and guitar ♪
 
