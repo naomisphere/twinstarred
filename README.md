@@ -7,7 +7,7 @@
 
 <p align="center" dir="auto">
   <a href="https://www.apple.com/macos/">
-    <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" style="width: 120px; height: auto;">
   </a>
 </p>
 
