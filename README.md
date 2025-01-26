@@ -1,6 +1,6 @@
 ## 🌙 vastra
 
-<img src="https://github.com/user-attachments/assets/8183cdcd-9d58-4cde-a561-b0f7b2ec9353" width="190" height="190"> \
+<img src="https://i.ibb.co/XsXhfMk/2.gif" width="190" height="190"> \
 \
 [>] hi, im vastra. \
 [>] https://guns.lol/xo1v
