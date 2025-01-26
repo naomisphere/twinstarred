@@ -5,7 +5,7 @@
 [>] hi, im vastra. \
 [>] [guns.lol](https://guns.lol/ginkgo)
 
-<p style="text-align: center">test</p>
+<p align="center" dir="auto">test.</p>
 
 ♪ ♥️ piano and guitar ♪
 
