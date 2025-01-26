@@ -5,13 +5,19 @@
 [>] hi, im vastra/ven. \
 [>] [guns.lol](https://guns.lol/ginkgo)
 
+<p align="center" dir="auto">I work on:</p>
+
 <p align="center" dir="auto">
   <a href="https://www.apple.com/macos/">
-    <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" style="width: 90px; height: auto;">
+    <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" style="width: 85px; height: auto;">
+  </a>
+
+  <a href="https://kernel.org/">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" style="width: 85px; height: auto;">
   </a>
 
   <a href="https://nixos.org/">
-    <img src="https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white" style="width: 90px; height: auto;">
+    <img src="https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white" style="width: 85px; height: auto;">
   </a>
   
 </p>
