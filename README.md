@@ -5,7 +5,8 @@
 [>] hi, im vastra/ven. \
 [>] [guns.lol](https://guns.lol/ginkgo)
 
-<p align="center" dir="auto">[macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)](https://www.apple.com/macos/)
+<p align="center" dir="auto">
+  ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)](https://www.apple.com/macos/)
 </p>
 
 ♪ ♥️ piano and guitar ♪
