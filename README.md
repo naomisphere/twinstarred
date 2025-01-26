@@ -8,7 +8,7 @@
 <h2 align="center">I work on:</h2>
 
 <p align="center" dir="auto">
-  <a href="https://www.apple.com/macos/" style="text-decoration: none;>
+  <a href="https://www.apple.com/macos/">
     <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" style="width: 85px; height: auto;">
   </a>
 
