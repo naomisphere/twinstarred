@@ -24,4 +24,4 @@
 
 ♪ ♥️ piano and guitar ♪
 
-[![ven's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=made2pwn&langs_count=6&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
+[![ven's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=twinstarred&langs_count=6&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
