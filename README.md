@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/5c504274-819e-4ddc-9e86-07ba722b31e4" width="500" height="230">
 
-[>] hi, im vastra/ven. \
+[>] hi, im satomi/vastra \
 [>] [guns.lol](https://guns.lol/ginkgo)
 
 <h2 align="center">I work on:</h2>
