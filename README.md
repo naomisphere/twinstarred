@@ -1,11 +1,24 @@
-## cat /Users/ven/twinstarred/README.md
+<h2 align="center">✦</h2>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d32a5895-916e-450b-9809-ef9ca902a17b" width="600" height="107">
+</div>
 
-<img src="https://github.com/user-attachments/assets/5c504274-819e-4ddc-9e86-07ba722b31e4" width="500" height="230">
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ac0fe7f7-2482-4ca9-b367-193849844072" width="600" height="40">
+</div>
 
-[>] hi, im satomi/vastra \
-[>] [guns.lol](https://guns.lol/ginkgo)
+  <h2></h2>
+<div align="left">
+<img src="https://github.com/user-attachments/assets/f7c8b2ca-0ae4-4b5b-a79c-3f5aea5d665b" width="150" height="100">
+</div>
 
-<h2 align="center">I work on:</h2>
+<div align="right">
+<img src="https://github.com/user-attachments/assets/3e76609e-e934-4106-8740-33f5cd89c902" width="150" height="100">
+</div>
+<h2></h2>
+
+<h2 align="center">I know about:</h2>
+
 
 <p align="center" dir="auto">
   <a href="https://www.apple.com/macos/">
@@ -15,13 +28,7 @@
   <a href="https://kernel.org/">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" style="width: 85px; height: auto;">
   </a>
-
-  <a href="https://nixos.org/">
-    <img src="https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white" style="width: 85px; height: auto;">
-  </a>
   
 </p>
 
-♪ ♥️ piano and guitar ♪
-
-[![ven's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=twinstarred&langs_count=6&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">♪ ♥️ piano and guitar ♪</p>
